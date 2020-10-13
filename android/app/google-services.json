@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74470044971",
+    "firebase_url": "https://gscmanagement-cef2a.firebaseio.com",
+    "project_id": "gscmanagement-cef2a",
+    "storage_bucket": "gscmanagement-cef2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74470044971:android:95a6bea8e84d978a4f816e",
+        "android_client_info": {
+          "package_name": "ng.ttomatoes.gsc_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74470044971-ubuh2ii6mvfe55digsts4fvvifsdn6uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.ttomatoes.gsc_management",
+            "certificate_hash": "5878868e43170182b62d82037c3aec34eeaa140f"
+          }
+        },
+        {
+          "client_id": "74470044971-s74bcf3fbnn08676vdvblgqmo5tus1cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WBPtEFvzk5hV2UY-gq3IGnsDSFktP_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74470044971-s74bcf3fbnn08676vdvblgqmo5tus1cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
