@@ -1,16 +1,17 @@
-# gsc_management
+## **Erp app**
 
-A new Flutter application.
+  Flutter Erp app for school student management.
 
-## Getting Started
+## **Roadmap**
 
-This project is a starting point for a Flutter application.
+- [x] Database setup
+- [x] Login screen
+- [x] Dashboard ui
+- [ ] Attendance screen
+- [ ] Notice board screen 
+- [ ] Fees Payment screen
+- [ ] class recordings screen
+- [ ] examination screen
+- [ ] admin page for adding and managing student data, adding notice & see fees payment records only available to admins
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
