@@ -15,7 +15,7 @@ class DashBoardCard extends StatelessWidget {
         padding: const EdgeInsets.only(top: 20.0),
         child: Card(
           elevation: 18.0,
-          color: Colors.lightBlue,
+          color: Color(0xFF900c3f),
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20.0)),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -23,11 +23,11 @@ class DashBoardCard extends StatelessWidget {
             children: [
               Padding(
                 padding: const EdgeInsets.all(16.0),
-                child: Text("${title}",style: textStyle1.copyWith(fontSize: 20.0,color: Colors.white),),
+                child: Text("${title}",style: textStyle1.copyWith(fontSize: 20.0,color: Colors.blue[200]),),
               ),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 16.0),
-                child: Text("${description}",style: textStyle1.copyWith(fontSize: 20.0,color: Colors.white),),
+                child: Text("${description}",style: textStyle1.copyWith(fontSize: 20.0,color: Colors.amber),),
               ),
             ],
           ),
