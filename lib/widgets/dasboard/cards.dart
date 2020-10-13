@@ -27,7 +27,7 @@ class DashBoardCard extends StatelessWidget {
               ),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 16.0),
-                child: Text("${description}",style: textStyle1.copyWith(fontSize: 20.0,color: Colors.amber),),
+                child: Text("${description}",style: textStyle1.copyWith(fontSize: 17.0,color: Colors.amber),),
               ),
             ],
           ),
